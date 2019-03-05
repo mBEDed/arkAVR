@@ -1,0 +1,6 @@
+arkAVR.name=arkAVR
+arkAVR.communication=usb
+arkAVR.protocol=arkAVR
+arkAVR.program.protocol=usbasp
+arkAVR.program.tool=avrdude
+arkAVR.program.extra_params=-Pusb
