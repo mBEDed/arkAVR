@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "arkAVR",
-      "maintainer": "mBEDed (micro)Systems",
+      "maintainer": "MCUdude",
       "websiteURL": "https://github.com/mBEDed/arkAVR",
       "email": "mbededsystems@gmail.com",
       "help": {
