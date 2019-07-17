@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://mBEDed.github.io/arkAVR/arkAVR-1.0.0.tar.gz",
           "archiveFileName": "arkAVR-1.0.0.tar.gz",
-          "checksum": "",
-          "size": "306232",
+          "checksum": "SHA-256:FDA0168901ED2618410F54F5A4C179A1E4018727B54CC868303F015ACBA0DAF2",
+          "size": "2500",
           "programmes": [
             {"name": "mBEDed arkAVR"}
           ],
