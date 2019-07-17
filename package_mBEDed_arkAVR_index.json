@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "arkAVR",
-      "maintainer": "mBEDed µSystems",
+      "maintainer": "mBEDed (micro)Systems",
       "websiteURL": "https://github.com/mBEDed/arkAVR",
       "email": "mbededsystems@gmail.com",
       "help": {
