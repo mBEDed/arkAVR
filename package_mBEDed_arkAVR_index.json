@@ -1,0 +1,29 @@
+{
+  "packages": [
+    {
+      "name": "arkAVR",
+      "maintainer": "mBEDed µSystems",
+      "websiteURL": "https://github.com/mBEDed/arkAVR",
+      "email": "mbededsystems@gmail.com",
+      "help": {
+        "online": "http://mbeded.systems"
+      },
+      "platforms": [
+        {
+          "name": "arkAVR",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://mBEDed.github.io/arkAVR/arkAVR-1.0.0.tar.gz",
+          "archiveFileName": "arkAVR-1.0.0.tar.gz",
+          "checksum": "",
+          "size": "306232",
+          "programmes": [
+            {"name": "mBEDed arkAVR"}
+          ],
+          "toolsDependencies": []
+        },
+      "tools": []
+    }
+  ]
+}
