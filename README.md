@@ -18,7 +18,7 @@ This installation method requires Arduino IDE version 1.6.4 or greater.
 * Open the **File > Preferences** menu item.
 * Enter the following URL in **Additional Boards Manager URLs**:
     ```
-    https://arkAVR.github.io/arkAVR_index.json
+    https://mbeded.github.io/arkAVR/package_mBEDed_arkAVR_index.json
     ```
 * Separate the URLs using a comma ( **,** ) if you have more than one URL
 * Open the **Tools > Board > Boards Manager...** menu item.
